@@ -1,5 +1,5 @@
 let ideas = [];
-if(localStorage.students){
+if(localStorage.ideas){
     ideas = JSON.parse(localStorage.ideas);
 }
 
